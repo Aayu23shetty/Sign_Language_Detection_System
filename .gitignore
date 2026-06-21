@@ -1,0 +1,10 @@
+myvenv/
+node_modules/
+__pycache__/
+.vscode/
+
+*.npy
+*.log
+*.pyc
+prediction_log.txt
+predictions_log.txt
